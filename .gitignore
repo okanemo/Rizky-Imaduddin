@@ -1,0 +1,5 @@
+admin-panel/node_modules/
+application/node_modules/
+
+admin-panel/.env
+application/.env
